@@ -1,248 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/about.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/blog.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-1.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-2.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-3.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-4.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-5.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-4.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-5.html</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260704-190.html</loc>
-    <lastmod>2026-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260705-970.html</loc>
-    <lastmod>2026-07-04</lastmod>
+    <loc>https://yeongdeok-crab-gourmet.namanavi.com/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeongdeok-crab-gourmet.namanavi.com/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260704-190.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260705-1240.html</loc>
-    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260705-970.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0154.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0155.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0156.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0157.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0158.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0159.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0160.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0161.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0162.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0163.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0164.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0165.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0166.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0167.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0168.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0169.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260719-0170.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0001.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0002.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0003.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0004.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0005.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0006.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0007.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0008.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0009.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0010.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/gemini-coverage-20260722-0011.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-4.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeongdeok-crab-gourmet.namanavi.com/posts/post-5.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
